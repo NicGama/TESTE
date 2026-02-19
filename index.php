@@ -13,7 +13,7 @@ echo "alomundo";
 </head>
 <body>
     <br><br><br><br><br>
-    <h1>ALO</h1>
+    <h1>ALO kundo?</h1>
 
     <a href="index.php"></a>
 
